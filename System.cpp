@@ -2,8 +2,6 @@
 #include <string>
 using namespace std;
 int main() {
-	ios_base::sync_with_stdio(0);
-	cin.tie(NULL);
 	unsigned long long int t, p;
 	cin >> t;
 	while (t--) {
