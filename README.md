@@ -5,3 +5,4 @@ Library (C++) => https://pl.spoj.com/problems/LIBRARY/ </br>
 Class1.cs (C#) => https://pl.spoj.com/problems/FR_05_04/ </br>
 Program.cs (C#) => https://pl.spoj.com/problems/TROJPASC/ </br>
 Spoj.java (java) => https://pl.spoj.com/problems/UPS12_A/ </br>
+Anagramy.java (java) => https://pl.spoj.com/problems/AL_30_01/ </br>
